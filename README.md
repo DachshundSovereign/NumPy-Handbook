@@ -3,6 +3,8 @@ Collections of frequently used [NumPy](http://www.numpy.org/) commands. This rep
 
 ## Table of Contents
 * [Installation](#installation)
+* [Construction](notebooks/construction.ipynb)
+* [Attributes](notebooks/attributes.ipynb)
 
 ## Installation
 NumPy can be installed easily using package manager pip:
