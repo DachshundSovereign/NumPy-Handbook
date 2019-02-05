@@ -6,6 +6,8 @@ Collections of frequently used [NumPy](http://www.numpy.org/) commands. This rep
 * [Construction](notebooks/construction.ipynb)
 * [Attributes](notebooks/attributes.ipynb)
 * [Index](notebooks/index.ipynb)
+* [Manipulation](notebooks/manipulation.ipynb)
+* [Arithmetic](noteboos/arithmetic.ipynb)
 
 ## Installation
 NumPy can be installed easily using package manager pip:
